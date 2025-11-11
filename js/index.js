@@ -56,3 +56,12 @@ integers and returns the list of squared elements.
 function square_integers(int_list){
   return int_list.map((num) => Math.pow(num, 2) )
 }
+
+
+// function whileLoop () {
+//   let i = 0
+//   while (i<5) {
+//     console.log("Woopty woop!")
+//     i++;
+//   }
+// }
